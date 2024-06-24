@@ -1,0 +1,14 @@
+C:\Users\Windows\Desktop\Programação\Projetos C#\IsaPrimeNumber\IsAPrimeNumber\IsAPrimeNumber\bin\Debug\net8.0\IsAPrimeNumber.exe
+C:\Users\Windows\Desktop\Programação\Projetos C#\IsaPrimeNumber\IsAPrimeNumber\IsAPrimeNumber\bin\Debug\net8.0\IsAPrimeNumber.deps.json
+C:\Users\Windows\Desktop\Programação\Projetos C#\IsaPrimeNumber\IsAPrimeNumber\IsAPrimeNumber\bin\Debug\net8.0\IsAPrimeNumber.runtimeconfig.json
+C:\Users\Windows\Desktop\Programação\Projetos C#\IsaPrimeNumber\IsAPrimeNumber\IsAPrimeNumber\bin\Debug\net8.0\IsAPrimeNumber.dll
+C:\Users\Windows\Desktop\Programação\Projetos C#\IsaPrimeNumber\IsAPrimeNumber\IsAPrimeNumber\bin\Debug\net8.0\IsAPrimeNumber.pdb
+C:\Users\Windows\Desktop\Programação\Projetos C#\IsaPrimeNumber\IsAPrimeNumber\IsAPrimeNumber\obj\Debug\net8.0\IsAPrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\Programação\Projetos C#\IsaPrimeNumber\IsAPrimeNumber\IsAPrimeNumber\obj\Debug\net8.0\IsAPrimeNumber.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\Programação\Projetos C#\IsaPrimeNumber\IsAPrimeNumber\IsAPrimeNumber\obj\Debug\net8.0\IsAPrimeNumber.AssemblyInfo.cs
+C:\Users\Windows\Desktop\Programação\Projetos C#\IsaPrimeNumber\IsAPrimeNumber\IsAPrimeNumber\obj\Debug\net8.0\IsAPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Programação\Projetos C#\IsaPrimeNumber\IsAPrimeNumber\IsAPrimeNumber\obj\Debug\net8.0\IsAPrimeNumber.dll
+C:\Users\Windows\Desktop\Programação\Projetos C#\IsaPrimeNumber\IsAPrimeNumber\IsAPrimeNumber\obj\Debug\net8.0\refint\IsAPrimeNumber.dll
+C:\Users\Windows\Desktop\Programação\Projetos C#\IsaPrimeNumber\IsAPrimeNumber\IsAPrimeNumber\obj\Debug\net8.0\IsAPrimeNumber.pdb
+C:\Users\Windows\Desktop\Programação\Projetos C#\IsaPrimeNumber\IsAPrimeNumber\IsAPrimeNumber\obj\Debug\net8.0\IsAPrimeNumber.genruntimeconfig.cache
+C:\Users\Windows\Desktop\Programação\Projetos C#\IsaPrimeNumber\IsAPrimeNumber\IsAPrimeNumber\obj\Debug\net8.0\ref\IsAPrimeNumber.dll
